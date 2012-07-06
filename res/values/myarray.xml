@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="jenis_sampah">
+        <item>Organik</item>
+        <item>Organik</item>
+        <item>NonOrganik</item>
+        <item>NonOrganik</item>
+        <item>Organik</item>
+        <item>Organik</item>
+        <item>NonOrganik</item>
+        <item>NonOrganik</item>
+        <item>Organik</item>
+        <item>Organik</item>
+        <item>NonOrganik</item>
+        <item>NonOrganik</item>
+        <item>Organik</item>
+        <item>Organik</item>
+        <item>NonOrganik</item>
+        <item>NonOrganik</item>
+        <item>Organik</item>
+        <item>Organik</item>
+        <item>NonOrganik</item>
+        <item>NonOrganik</item>
+        <item>Organik</item>
+        <item>Organik</item>
+        <item>NonOrganik</item>
+        <item>NonOrganik</item>
+        <item>Organik</item>
+        <item>Organik</item>
+        <item>NonOrganik</item>
+        <item>NonOrganik</item>
+        <item>Organik</item>
+        <item>Organik</item>
+        <item>NonOrganik</item>
+        <item>NonOrganik</item>
+        <item>Organik</item>
+        <item>Organik</item>
+        <item>NonOrganik</item>
+        <item>NonOrganik</item>
+        <item>Organik</item>
+        <item>Organik</item>
+        <item>NonOrganik</item>
+        <item>NonOrganik</item>
+    </string-array>
+    <string-array name="sampah">
+        <item>Bread</item>
+        <item>Birthday Cake</item>
+        <item>Baby Milk Bottle</item>
+        <item>Cans</item>
+        <item>Pizza</item>
+        <item>Flowers</item>
+        <item>Scissors</item>
+        <item>Pencil</item>
+        <item>Leg Steak</item>
+        <item>Sun Flower</item>
+        <item>Milk Carton</item>
+        <item>Newspaper</item>
+        <item>Broccoli</item>
+        <item>Corn</item>
+        <item>Soccer Ball</item>
+        <item>Loose Leaf Paper</item>
+        <item>Grapes</item>
+        <item>Tomato</item>
+        <item>Screw</item>
+        <item>Pad lock</item>
+        <item>Bananas</item>
+        <item>Apple</item>
+        <item>Eraser</item>
+        <item>Plastic Cup</item>
+        <item>Carrot</item>
+        <item>Cherry</item>
+        <item>Toothbrush</item>
+        <item>Shopping Bag</item>
+        <item>Cactus</item>
+        <item>Leaves</item>
+        <item>Shoe</item>
+        <item>Spoon</item>
+        <item>Burger</item>
+        <item>Potato</item>
+        <item>Beach Ball</item>
+        <item>Box</item>
+        <item>Acorn</item>
+        <item>Hot Dog</item>
+        <item>Books</item>
+        <item>Fishing Pole</item>
+    </string-array>
+
+    <array name="gambar_sampah">
+        <item>@drawable/bread</item>
+        <item>@drawable/birthday_cake</item>
+        <item>@drawable/baby_milk_bottle</item>
+        <item>@drawable/cans</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/flowers</item>
+        <item>@drawable/scissors</item>
+        <item>@drawable/pencil</item>
+        <item>@drawable/leg_steak</item>
+        <item>@drawable/sunflower</item>
+        <item>@drawable/milk_carton</item>
+        <item>@drawable/newspaper</item>
+        <item>@drawable/broccoli</item>
+        <item>@drawable/corn</item>
+        <item>@drawable/soccer_ball</item>
+        <item>@drawable/loose_leaf_paper</item>
+        <item>@drawable/grapes</item>
+        <item>@drawable/tomato</item>
+        <item>@drawable/screw</item>
+        <item>@drawable/padlock</item>
+        <item>@drawable/bananas</item>
+        <item>@drawable/apple</item>
+        <item>@drawable/eraser</item>
+        <item>@drawable/plastic_cup</item>
+        <item>@drawable/carrot</item>
+        <item>@drawable/cherry</item>
+        <item>@drawable/toothbrush</item>
+        <item>@drawable/shopping_bag</item>
+        <item>@drawable/cactus</item>
+        <item>@drawable/leaves</item>
+        <item>@drawable/shoe</item>
+        <item>@drawable/spoon</item>
+        <item>@drawable/burger</item>
+        <item>@drawable/potato</item>
+        <item>@drawable/beach_ball</item>
+        <item>@drawable/box</item>
+        <item>@drawable/acorn</item>
+        <item>@drawable/hot_dog</item>
+        <item>@drawable/books</item>
+        <item>@drawable/fishing_pole</item>
+    </array>
+    <array name="gambar_keterangan">
+        <item>@drawable/ic_false</item>
+        <item>@drawable/ic_true</item>
+        <item>@drawable/btn_play</item>
+    </array>
+
+</resources>

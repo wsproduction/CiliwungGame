@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg_menu"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/ivLatihan"
+        android:layout_width="10pt"
+        android:layout_height="10pt"
+        android:contentDescription="@string/ivDisplayDesc"/>
+
+    <ImageView
+        android:id="@+id/ivScore"
+        android:layout_width="10pt"
+        android:layout_height="10pt"
+        android:contentDescription="@string/ivDisplayDesc"/>
+
+    <ImageView
+        android:id="@+id/ivAbout"
+        android:layout_width="10pt"
+        android:layout_height="10pt"
+        android:contentDescription="@string/ivDisplayDesc"/>
+
+    <ImageView
+        android:id="@+id/ivKeluar"
+        android:layout_width="10pt"
+        android:layout_height="10pt"
+        android:contentDescription="@string/ivDisplayDesc"/>
+
+</LinearLayout>

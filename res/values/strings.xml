@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Ciliwung Game!</string>
+    <string name="app_name">Ciliwung</string>
+    
+    <string name="tvLoading">0% Loading&#8230;</string>
+    <string name="tvPlayerNaame">Type Your Name : </string>
+    
+    <string name="ivDisplayDesc">Image View</string>
+    
+    <string name="bLatihan">Latihan</string>
+    <string name="bPlayGame">Maikan Game</string>
+    <string name="bHightScore">Score Tertinggi</string>
+    <string name="bAbout">Tentang Game</string>
+    <string name="bKeluar">Keluar</string>
+    
+    <string name="bRandom">Acak Sampah</string>
+    <string name="bOrganik">Organik</string>
+    <string name="bNonOrganik">Non Organik</string>
+	
+</resources>

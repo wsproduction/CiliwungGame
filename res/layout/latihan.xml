@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_latihan"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="3">
+
+        <TextView
+            android:id="@+id/tvNilai"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/tvNyawa"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="#ff0000" />
+
+        <TextView
+            android:id="@+id/tvWaktu"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="@android:color/white"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout2"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/ivSampah"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_gravity="center"
+            android:contentDescription="@string/ivDisplayDesc"/>
+
+        <ImageView
+            android:id="@+id/ivKeterangan"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:contentDescription="@string/ivDisplayDesc"
+            android:src="@drawable/btn_play" />
+
+        <TextView
+            android:id="@+id/tvSampah"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout3"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="3" >
+
+        <ImageView
+            android:id="@+id/ivOrganik"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:contentDescription="@string/ivDisplayDesc"/>
+
+        <ImageView
+            android:id="@+id/ivBackToMenu"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:contentDescription="@string/ivDisplayDesc"/>
+
+        <ImageView
+            android:id="@+id/ivNonOrganik"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:contentDescription="@string/ivDisplayDesc"/>
+    </LinearLayout>
+
+</LinearLayout>
